@@ -20,7 +20,8 @@
 
 ## 🚀 Como executar o projeto
 
-É precisso ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+É precisso ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
+Para ver como é o projeto clique [aqui](https://matheus-de-araujo.github.io/google-glass/)
 
 #### 🧭 Rodando a aplicação
 
