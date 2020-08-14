@@ -14,8 +14,7 @@
 
 
 ## :pencil: Sobre o projeto
-
-🏫 É um site fictício sobre o Google glass, o óculos inteligente da google, foi feito no intuito de aprender sobre html e css.
+:eyeglasses: É um site fictício sobre o Google glass, o óculos inteligente da google, foi feito no intuito de aprender sobre html e css.
 
 ---
 
