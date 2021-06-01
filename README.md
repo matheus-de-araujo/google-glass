@@ -1,4 +1,4 @@
-<h1 align="center" >
+<h1 align="center" font-weight:bold">
    Google Glass
 </h1>
 
@@ -44,4 +44,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-Feito por Matheus de Araújo com :blue_heart:
+Feito por Matheus de Araújo :flying_saucer:
