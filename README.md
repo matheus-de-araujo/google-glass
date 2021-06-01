@@ -17,10 +17,15 @@
 :eyeglasses: É um site fictício sobre o Google glass, o óculos inteligente da google, foi feito no intuito de aprender sobre html e css.
 
 ---
-
+## 🎨 Layout
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  	<img alt="Página de cadastro de vídeo" src="/public/images/study-page.png" width="100%">
+</p>
+---
+			 
 ## 🚀 Como executar o projeto
 
-É precisso ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
+É preciso ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 Mas para ver como ficou o projeto basta clicar [aqui](https://matheus-de-araujo.github.io/google-glass/)
 
 #### 🧭 Rodando a aplicação
