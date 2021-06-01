@@ -8,20 +8,20 @@
 
 <p align="center">
 	<a href="#-sobre-o-projeto">Sobre</a> •
+	<a href="#-layout">layout</a> • 
  	<a href="#-como-executar-o-projeto">Como executar</a> • 
-  <a href="#-tecnologias">Tecnologias</a>
+  	<a href="#-tecnologias">Tecnologias</a>
 </p>
 
 
 ## :pencil: Sobre o projeto
 :eyeglasses: É um site fictício sobre o Google glass, o óculos inteligente da google, foi feito no intuito de aprender sobre html e css.
-
----
+		 
 ## 🎨 Layout
+			 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  	<img alt="Página de cadastro de vídeo" src="/public/images/study-page.png" width="100%">
+  	<img alt="Página Principal" src="/imagens/image-git.png" width="100%">
 </p>
----
 			 
 ## 🚀 Como executar o projeto
 
@@ -36,8 +36,6 @@ Mas para ver como ficou o projeto basta clicar [aqui](https://matheus-de-araujo.
 $ git clone https://github.com/matheus-de-araujo/google-glass
 
 ```
-
----
 
 ## 🛠 Tecnologias
 
