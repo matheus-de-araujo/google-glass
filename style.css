@@ -1,11 +1,8 @@
 @charset "UTF-8";
-@import url('https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap');
-@font-face {
-  font-family: 'fontlogo';
-  src: url(fonts/bubblegum-sans-regular.otf);
-}
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
 body {
   background-color: #dddddd;
+  font-family: 'Nunito', 'sans-serif';
 }
 div#interface {
   background-color: white;
@@ -117,17 +114,17 @@ table#tabelaspec {
   vertical-align: center;
 }
 table#tabelaspec td {
-  border: 1px #606060 solid;
+  border: 1px #504e4e solid;
   padding: 20px;
 }
 table#tabelaspec td.ce {
     color: #ffffff;
-    background-color: #606060;
+    background-color: #191818;
     box-align: top;
     vertical-align: top;
 }
 table#tabelaspec td.cd {
-    background-color: #cecece;
+    background-color: #d2f7ff;
 
 }
 table#tabelaspec caption {
