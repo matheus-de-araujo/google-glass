@@ -44,4 +44,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-Feito por Matheus de Araújo :electron:
+Feito por Matheus de Araújo 🇧🇷
