@@ -13,7 +13,10 @@
   	<a href="#-tecnologias">Tecnologias</a>
 </p>
 
-
+<h4 align="center"> 
+	🚧  Status: Finalizado ✔️ 🚧
+</h4>
+		  
 ## :pencil: Sobre o projeto
 :eyeglasses: É um site fictício sobre o Google glass, o óculos inteligente da google, foi feito no intuito de aprender sobre html e css.
 		 
