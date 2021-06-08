@@ -1,4 +1,4 @@
-<h1 align="center" font-weight:bold">
+<h1 align="center" font-weight:bold>
    Google Glass
 </h1>
 
